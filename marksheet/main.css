@@ -1,0 +1,141 @@
+.jumbotron{
+	text-align: center;
+	background: none;
+}
+.sectionLight{
+	background-color: #eceeef;
+	padding: 3rem;
+}
+
+
+h2{color: aqua;}
+.vv{font-size: 2rem;
+color: blue;}
+
+.navbar {
+  min-height: 100px;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+}
+
+.navbar-toggle {
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    line-height: 27px;
+  }
+}
+.container-fluid{
+	font: 3rem;
+}
+.sectionDark{
+	background-color: #cccccc;
+    padding: .5rem;
+}
+.coolwrapper{
+	margin-top: 25px;
+	margin-bottom: 10px;
+	
+}
+button.coolbtn{
+	background-color: red;
+	color: #ffffff;
+	display: block;
+	margin: auto;
+}
+.img-fluid{
+	display: block;
+	margin: auto;
+}
+h5.modal-title{
+	
+	margin-left: 135px;
+}
+.modalFormWrapper{
+	padding: 2rem;
+}
+
+.imgc{
+	display: block;
+	margin: auto;
+}
+
+.btnc{
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding: 0.3rem 2rem 0.3rem 2rem;
+	width: 60%;
+	
+	
+}
+.tt{
+	margin-left: 5px;
+	margin-top: 80px;
+
+}
+
+.fimg{
+	padding: 15px;
+	padding-bottom: -15px;
+}
+
+.fa-facebook-square{
+	color: #3399ff;
+	padding-top: 10px;
+}
+
+.fa-instagram{
+	color: hotpink;
+	padding: 10px;
+	padding-left: 30px;
+}
+
+.fa-google-plus{
+	color: #ff3333;
+	padding: 10px;
+	padding-left: 20px;
+}
+.social{
+	margin: auto;
+}
+
+.imgc{
+	height: 333px;
+	width: 1138px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
