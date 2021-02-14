@@ -49,7 +49,7 @@
         </a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 							<a class="dropdown-item" href="https://towardsdatascience.com/a-simple-way-to-analyze-student-performance-data-with-python-cc09c7508c4c" target="_blank">IDEA</a>
-							<a class="dropdown-item" href="https://www.hindawi.com/journals/mse/2016/5309348/" target="_blank">Implementation</a>
+							<a class="dropdown-item" href="https://analyticsindiamag.com/how-the-education-sector-is-using-data-analytics-to-revamp-pedagogy/" target="_blank">Implementation</a>
 							<a class="dropdown-item" href="http://localhost:8888/tree?" target="_blank">Execution</a>
 						</div>
 						
