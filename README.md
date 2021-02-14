@@ -32,3 +32,31 @@ as a priority.
 -We aim to get in contact with schools and other educational facilities for students to help them provide a better performance analysis using
  our software(AWS servers will be used for running Jupyter Notebook files on cloud).
 -We aim to provide a mobile application as well, through Flask, to provide mobility in our services.
+## INSRUCTIONS
+For the smooth working of this project, we recommend you to download the files from the GitHub repository
+
+For this project, Anaconda environment should be installed. If you have not installed, go to https://www.anaconda.com/products/individual
+
+Install the required libraries given below
+plotly -             conda install -c conda-forge plotly
+ipwidgets -      conda install -c conda-forge ipywidgets
+
+
+Libraries to import :
+
+numpy - import numpy as np
+pandas - import pandas as pd
+matplotlib - import matplotlib.pyplot as plt 
+                      %matplotlib inline
+
+
+For execution:
+
+1)Open jupyter notebook through **anaconda navigator or conda shell(command- jupyter notebook)**
+
+2)Set the directory of anaconda shell to the **repository folder you have downloaded**.
+
+3)Click on Website link provided - https://mark-sheet01.herokuapp.com/
+
+4)Go to "About Project" click on **"Execution" to go ModPlotter.ipynb** run the notebook file and click on dropdowns to see the plots taken from the excel sheet datas provided.
+
