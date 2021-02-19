@@ -60,5 +60,5 @@ For execution:
 
 3)Click on Website link provided - https://mark-sheet01.herokuapp.com/
 
-4)Go to "About Project" click on **"Execution" to go ModPlotter.ipynb** run the notebook file and click on dropdowns to see the plots taken from the excel sheet datas provided.
+4)Go to **ModPlotter.ipynb** run the notebook file and click on dropdowns to see the plots taken from the excel sheet datas provided.
 
