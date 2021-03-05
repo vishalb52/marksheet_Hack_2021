@@ -50,7 +50,7 @@
 						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 							<a class="dropdown-item" href="https://towardsdatascience.com/a-simple-way-to-analyze-student-performance-data-with-python-cc09c7508c4c" target="_blank">IDEA</a>
 							<a class="dropdown-item" href="https://analyticsindiamag.com/how-the-education-sector-is-using-data-analytics-to-revamp-pedagogy/" target="_blank">Implementation</a>
-							<a class="dropdown-item" href="http://localhost:8888/tree?" target="_blank">Execution</a>
+							<a class="dropdown-item" href="https://share.streamlit.io/ashwinprksh00/student-performance-analysis-prototype/main/ProjectRedefined.py" target="_blank">Execution</a>
 						</div>
 						
 					</li>
